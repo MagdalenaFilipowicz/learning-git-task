@@ -1,3 +1,4 @@
+print("Pozdrowienia ze slonecznego Podlasia")
 print("Zadanie 1.1")
 shop = {'Zoologiczny':['Piesek','Kotek','Rybki'] , 'Warzywniak':['Marchew','Seler','Rukola']}
 for k in shop:
